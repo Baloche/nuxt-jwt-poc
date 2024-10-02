@@ -3,7 +3,6 @@ export default defineNuxtConfig({
   runtimeConfig: {
     allowedDomain: '',
   },
-  ssr: false,
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
 })
